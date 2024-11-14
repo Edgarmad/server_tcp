@@ -20,10 +20,17 @@ python server.py
 ```
 ### Pruebas
 Conexion del cliente
+
 ![alt text](image.png)
+
 Conexion del servidor
+
 ![alt text](image-1.png)
+
 Desconexion por cliente
+
 ![alt text](image-2.png)
+
 Desconexion del servidor
+
 ![alt text](image-3.png)
